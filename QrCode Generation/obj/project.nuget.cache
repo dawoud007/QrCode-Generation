@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+jEUw9meuXnpqcLxrZdN26JY5/p9/QJ+CtVuNvA2FCc2S3GqbYOCKrQnQ3NpdqrS91ormsN/yF6I7+N97H/1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mo Dawoud\\Desktop\\QrCode Generation\\QrCode Generation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mo Dawoud\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mo Dawoud\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mo Dawoud\\.nuget\\packages\\qrcoder\\1.4.2\\qrcoder.1.4.2.nupkg.sha512",
+    "C:\\Users\\Mo Dawoud\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mo Dawoud\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Mo Dawoud\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Mo Dawoud\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Mo Dawoud\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

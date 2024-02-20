@@ -1,0 +1,38 @@
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\appsettings.json
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\QrCode Generation.staticwebassets.runtime.json
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\QrCode Generation.exe
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\QrCode Generation.deps.json
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\QrCode Generation.runtimeconfig.json
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\QrCode Generation.dll
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\QrCode Generation.pdb
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\QrCode Generation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\QrCode Generation.AssemblyInfoInputs.cache
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\QrCode Generation.AssemblyInfo.cs
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\QrCode Generation.csproj.CoreCompileInputs.cache
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\QrCode Generation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\QrCode Generation.RazorAssemblyInfo.cache
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\QrCode Generation.RazorAssemblyInfo.cs
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\staticwebassets\msbuild.QrCode Generation.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\staticwebassets\msbuild.build.QrCode Generation.props
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QrCode Generation.props
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QrCode Generation.props
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\scopedcss\bundle\QrCode Generation.styles.css
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\scopedcss\projectbundle\QrCode Generation.bundle.scp.css
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\QrCode Generation.dll
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\refint\QrCode Generation.dll
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\QrCode Generation.pdb
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\QrCode Generation.genruntimeconfig.cache
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\ref\QrCode Generation.dll
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\QRCoder.dll
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\QrCode Generation.csproj.AssemblyReference.cache
+C:\Users\Mo Dawoud\Desktop\QrCode Generation\obj\Debug\net6.0\QrCode Generation.csproj.CopyComplete
